@@ -1,0 +1,19 @@
+{
+  "name": "js-library",
+  "version": "0.0.0",
+  "description": "Starting point when writing a JavaScript library, using requirejs for modules and jasmine-node for testing.",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-node": "~1.11.0",
+    "requirejs": "~2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rossbeehler/js-library"
+  },
+  "author": "Ross Beehler",
+}
